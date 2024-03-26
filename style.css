@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    background-color: azure;
+    color: #333;
+}
+.page-header {
+    font-size: xx-large;
+    color: #333;
+  }
+  
+  .name {
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  .email {
+    font-weight: bold;
+  }
+  
+  .address {
+    font-style: italic;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
